@@ -45,3 +45,9 @@ python3 netops_toolbox.py
 ## 📜 License
 Author : **SR33-R4G** — © 2025 All Rights Reserved.
 
+
+
+
+
+![Terminal Output](netops.png) 
+
