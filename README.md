@@ -43,5 +43,5 @@ python3 netops_toolbox.py
 - **Windows output differs** → expected; commands vary by OS
 
 ## 📜 License
-Licensed to **Sreerag M S** — © 2025 All Rights Reserved.
-Redistribution or modification without explicit permission is prohibited.
+Author : **SR33-R4G** — © 2025 All Rights Reserved.
+
